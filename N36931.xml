@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <body>
          <div type="letter">
-            <pb facs="tcp:048357_0000_1024A712D11B2680"/>
-            <pb facs="tcp:048357_0001_1024A725C3230638" rendition="simple:additions"/>
+            <pb facs="unknown:048357_0000_1024A712D11B2680"/>
+            <pb facs="unknown:048357_0001_1024A725C3230638"
+                rendition="simple:additions"/>
             <head>Barlow's Letter. From the CONNECTICUT COURANT.</head>
             <opener>
                <salute>
